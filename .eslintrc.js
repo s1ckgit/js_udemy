@@ -17,5 +17,9 @@ module.exports = {
     'react'
   ],
   rules: {
+    "one-var": "off",
+    quotes: "off",
+    "prefer-const": "off",
+    semi: "off"
   }
 }
